@@ -34,9 +34,9 @@ The main project files are located in the `dom-manipulation` directory (or direc
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/YOUR_GITHUB_USERNAME/alx_fe_javascript.git
+    git clone https://github.com/kingnogool/alx_fe_javascript.git
     ```
-    (Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username)
+  https://github.com/kingnogool/ 
 2.  **Navigate to the Project Directory:**
     ```bash
     cd alx_fe_javascript/dom-manipulation 
@@ -69,8 +69,7 @@ The main project files are located in the `dom-manipulation` directory (or direc
 *   Includes UI elements or notifications to inform users about data updates or resolved conflicts.
 
 ## Author
-
-*   **[Your Name/GitHub Username]** - e.g., `kingnogool`
+ kingnogool
 
 ## License
 
